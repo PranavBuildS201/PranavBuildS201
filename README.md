@@ -112,9 +112,12 @@ Alongside: Embedded C → Microcontrollers → Sensors → IoT Projects
 
 I'm happy to learn from other engineers, discuss electronics projects, and collaborate on digital design, embedded systems, or IoT.
 
-<p>
+<p align="left">
   <a href="https://github.com/PranavBuildS201">
     <img src="https://img.shields.io/badge/GitHub-PranavBuildS201-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
+  </a>
+  <a href="https://www.linkedin.com/in/pranav-shinde-2403942b1">
+    <img src="https://img.shields.io/badge/LinkedIn-Pranav%20Shinde-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
   </a>
 </p>
 
